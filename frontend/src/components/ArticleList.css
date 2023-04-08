@@ -1,0 +1,21 @@
+.art{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+
+    border : 1px solid green;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.softBtn{
+    background-color: rgba(163, 22, 22, 0.763);
+    display: block;
+    float:right;
+}
+
+.blogDisplay{
+    text-decoration: none;
+    color: black;
+}
